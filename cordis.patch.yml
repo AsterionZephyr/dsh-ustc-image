@@ -1,0 +1,4 @@
+# 最小 bundle 层：只挂一个条目
+- insert:
+    - id: dsh-ustc-image
+      name: 'dsh-ustc-image'
